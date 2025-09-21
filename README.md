@@ -20,7 +20,7 @@ Running The Project:
 The project is deployed on github pages. You can play through the game by going into the deployments
 tab on this repository and clicking onto the website link. Here is the link provided in case you do
 not have access to view the deployments 
-Link: 
+Link: https://guetara.github.io/CS-439-Finite-State-Lab/
 
 Node Switching Mechanisms:
 
